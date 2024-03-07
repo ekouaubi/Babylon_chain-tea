@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "umee_kanva": "^1.0.0",
-    "application=tea34": "^1.0.0",
+    "application-tea34": "^1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
